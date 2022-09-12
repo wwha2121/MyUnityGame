@@ -1,1 +1,1 @@
-/Users/jeonseongju/myGameProject
+/Users/jeonseongju/Documents/GitHub/MyUnityGame/myGameProject
